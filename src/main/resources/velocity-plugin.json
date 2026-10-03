@@ -1,0 +1,5 @@
+id = "rwhitelist"
+name = "rWhitelist"
+version = "1.0.0"
+authors = ["ch4rlesexe"]
+main = "net.ch4rlesexe.whitelist.WhitelistPlugin"
